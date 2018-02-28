@@ -5,5 +5,8 @@
   "repository": "git@github.com:cyl19910101/pages.git",
   "author": "Kim Chen <chenyanliang19910101@gmail.com>",
   "homepage": "https://cyl19910101.github.io/pages",
+  "scripts": {
+    "test": "echo tested"
+  },
   "license": "MIT"
 }
