@@ -1,0 +1,9 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cyl19910101/pages.git",
+  "author": "Kim Chen <chenyanliang19910101@gmail.com>",
+  "homepage": "https://cyl19910101.cyl.io/pages",
+  "license": "MIT"
+}
